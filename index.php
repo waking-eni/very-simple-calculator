@@ -17,7 +17,6 @@
 		<option value="3">Division</option>
 	</select>
 	<button type="submit" name="do-operation">Do operation</button>
-	<p id="ispis"></p>
 </form>
 
 </body>
