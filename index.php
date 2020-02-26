@@ -20,9 +20,5 @@
 	<p id="ispis"></p>
 </form>
 
-<script>
-var opt = document.getElementById('operat');
-console.log( opt.value );
-</script>
 </body>
 </html>
